@@ -2,9 +2,9 @@
     "miniapp": {
         "version": "1",
         "name": "Herodotus Explorer",
-        "iconUrl": "https://herodotus-quotes.vercel.app/vite.svg",
+        "iconUrl": "https://herodotus-quotes.vercel.app/herodotus_icon.jpg",
         "homeUrl": "https://herodotus-quotes.vercel.app",
-        "splashImageUrl": "https://herodotus-quotes.vercel.app/vite.svg",
+        "splashImageUrl": "https://herodotus-quotes.vercel.app/herodotus_icon.jpg",
         "splashBackgroundColor": "#fafaf9"
     }
 }
