@@ -1,24 +1,36 @@
-import { useEffect } from 'react'
-import HerodotusExplorer from './components/HerodotusExplorer.jsx'
-import Footer from './components/Footer.jsx'
-import './App.css'
-// 1. Import the SDK
+import { useEffect, useState } from 'react'
+import HerodotusExplorer from './components/HerodotusExplorer'
+import Footer from './components/Footer'
 import { sdk } from '@farcaster/miniapp-sdk'
+import './App.css'
 
 function App() {
+  const [isLoaded, setIsLoaded] = useState(false);
+
   useEffect(() => {
     const init = async () => {
-      // 2. Tell Farcaster we are ready (Removes the splash screen)
-      await sdk.actions.ready();
+      try {
+        // Try to signal ready, but don't block forever
+        console.log("Initializing Farcaster SDK...");
+        // Race condition: If SDK takes too long, just load the app
+        const timeout = new Promise(resolve => setTimeout(resolve, 1000));
+        await Promise.race([sdk.actions.ready(), timeout]);
+        console.log("SDK Ready (or timed out)");
+      } catch (err) {
+        console.error("SDK Error:", err);
+      } finally {
+        setIsLoaded(true);
+      }
     };
     init();
   }, []);
 
+  // Render immediately, don't wait for SDK to prevent white screen
   return (
-    <>
+    <div className="app-container">
       <HerodotusExplorer />
       <Footer />
-    </>
+    </div>
   )
 }
 
