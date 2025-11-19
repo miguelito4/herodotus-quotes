@@ -1,5 +1,31 @@
 [
   {
+    "id": "bookvii_simonides_thermopylae_01",
+    "text": "Go tell the Spartans, stranger passing by, That here obedient to their laws we lie.",
+    "speaker": "Simonides",
+    "book": "VII",
+    "context_before": "This is the famous epitaph commemorating the Spartans who fell at Thermopylae under Leonidas. Though not directly quoted in Herodotus's text, this inscription by Simonides of Ceos became the most enduring memorial of the battle.",
+    "context_after": "The epitaph captures the Spartan ideal of obedience to law and duty unto death.",
+    "tags": [
+      "death",
+      "war",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "bookvii_xerxes_weeping_01",
+    "text": "Yea, for after I had reckoned up, it came into my mind to feel pity at the thought how brief was the whole life of man, seeing that of these multitudes not one will be alive when a hundred years have gone by.",
+    "speaker": "Xerxes",
+    "book": "VII",
+    "context_before": "And seeing all the Hellespont covered over with the ships, and all the shores and the plains of Abydos full of men, then Xerxes pronounced himself a happy man, and after that he fell to weeping. Artabanos his uncle therefore perceiving him, having observed that Xerxes wept, asked as follows: O king, how far different from one another are the things which thou hast done now and a short while before now! for having pronounced thyself a happy man, thou art now shedding tears. He said:",
+    "context_after": "He then made answer and said: To another evil more pitiful than this we are made subject in the course of our life; for in the period of life, short as it is, no man, either of these here or of others, is made by nature so happy, that there will not come to him many times, and not once only, the desire to be dead rather than to live",
+    "tags": [
+      "fate",
+      "wisdom",
+      "death"
+    ]
+  },
+  {
     "id": "booki_solon_manual_01",
     "text": "Tellos, in the first place, living while his native State was prosperous, had sons fair and good and saw from all of them children begotten and living to grow up; and secondly he had what with us is accounted wealth, and after his life a most glorious end: for when a battle was fought by the Athenians at Eleusis against the neighbouring people, he brought up supports and routed the foe and there died by a most fair death; and the Athenians buried him publicly where he fell, and honoured him greatly.",
     "speaker": "Solon",

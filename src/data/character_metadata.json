@@ -127,7 +127,11 @@
     "Dareios": {
         "standardName": "Darius I",
         "wiki": "https://en.wikipedia.org/wiki/Darius_the_Great",
-        "description": "King of Kings who organized the Persian Empire and launched the first invasion of Greece."
+        "description": "King of Kings who organized the Persian Empire and launched the first invasion of Greece.",
+        "aliases": [
+            "Darius",
+            "Darius the Great"
+        ]
     },
     "Delphians": {
         "standardName": "The Delphians",
@@ -437,11 +441,22 @@
     "Xerxes": {
         "standardName": "Xerxes I",
         "wiki": "https://en.wikipedia.org/wiki/Xerxes_I",
-        "description": "King of Kings of Persia who led the massive invasion of Greece."
+        "description": "King of Kings of Persia who led the massive invasion of Greece.",
+        "aliases": [
+            "Xerxes the Great"
+        ]
     },
     "Zeus": {
         "standardName": "Zeus",
         "wiki": "https://en.wikipedia.org/wiki/Zeus",
         "description": "King of the gods of Mount Olympus."
+    },
+    "Simonides": {
+        "standardName": "Simonides of Ceos",
+        "wiki": "https://en.wikipedia.org/wiki/Simonides_of_Ceos",
+        "description": "Greek lyric poet who composed the famous Thermopylae epitaph.",
+        "aliases": [
+            "The Stone at Thermopylae"
+        ]
     }
 }

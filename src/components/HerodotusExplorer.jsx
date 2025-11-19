@@ -26,9 +26,29 @@ const HerodotusExplorer = () => {
     const speakers = [...new Set(quotesData.map(q => q.speaker))].sort();
     if (!searchTerm) return [];
 
-    return speakers.filter(speaker =>
-      speaker.toLowerCase().includes(searchTerm.toLowerCase())
-    );
+    const searchLower = searchTerm.toLowerCase();
+
+    return speakers.filter(speaker => {
+      // Check if speaker name matches
+      if (speaker.toLowerCase().includes(searchLower)) {
+        return true;
+      }
+
+      // Check if any metadata fields match
+      const metadata = characterMetadata[speaker];
+      if (metadata) {
+        // Check standard name
+        if (metadata.standardName && metadata.standardName.toLowerCase().includes(searchLower)) {
+          return true;
+        }
+        // Check aliases
+        if (metadata.aliases && metadata.aliases.some(alias => alias.toLowerCase().includes(searchLower))) {
+          return true;
+        }
+      }
+
+      return false;
+    });
   }, [searchTerm]);
 
   const getCharacterQuotes = (characterName) => {
