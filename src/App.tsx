@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 import HerodotusExplorer from './components/HerodotusExplorer'
-import Footer from './components/Footer'
 import { sdk } from '@farcaster/miniapp-sdk'
 import './App.css'
 
@@ -29,7 +28,6 @@ function App() {
   return (
     <div className="app-container">
       <HerodotusExplorer />
-      <Footer />
     </div>
   )
 }
