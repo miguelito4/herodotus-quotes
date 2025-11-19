@@ -1,10 +1,24 @@
 {
+    "accountAssociation": {
+        "header": "eyJmaWQiOjQ5MDQsInR5cGUiOiJhdXRoIiwia2V5IjoiMHhhNjNjMUQ3QjUwMzBGNDNFNTQ1NTE1MGNmQzA5ZjExNjU4NGUyZTllIn0",
+        "payload": "eyJkb21haW4iOiJoZXJvZG90dXMtcXVvdGVzLnZlcmNlbC5hcHAifQ",
+        "signature": "JXT01ENZF1wCgv8YSdWsgqNw0O5fGKDhw7tFZI3A+HdYYe1V/LLAJoJA1olM0O0upL0Dj4ug4bDjzkB7/6f2tBs="
+    },
     "miniapp": {
-        "version": "1",
         "name": "Herodotus Explorer",
+        "version": "1",
         "iconUrl": "https://herodotus-quotes.vercel.app/herodotus_icon.jpg",
         "homeUrl": "https://herodotus-quotes.vercel.app",
+        "imageUrl": "https://herodotus-quotes.vercel.app/api/og",
         "splashImageUrl": "https://herodotus-quotes.vercel.app/herodotus_icon.jpg",
-        "splashBackgroundColor": "#fafaf9"
+        "splashBackgroundColor": "#fafaf9",
+        "subtitle": "Explore quotes from The Histories",
+        "description": "Search for quotes of prominent people during the Greco-Persian Wars, as chronicled by the first historian",
+        "primaryCategory": "education",
+        "tags": [
+            "books",
+            "history",
+            "quotes"
+        ]
     }
 }
