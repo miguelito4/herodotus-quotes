@@ -1,0 +1,10 @@
+{
+    "miniapp": {
+        "version": "1",
+        "name": "Herodotus Explorer",
+        "iconUrl": "https://herodotus-quotes.vercel.app/vite.svg",
+        "homeUrl": "https://herodotus-quotes.vercel.app",
+        "splashImageUrl": "https://herodotus-quotes.vercel.app/vite.svg",
+        "splashBackgroundColor": "#fafaf9"
+    }
+}
