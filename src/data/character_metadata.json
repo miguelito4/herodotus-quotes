@@ -1,0 +1,447 @@
+{
+    "Adrastos": {
+        "standardName": "Adrastus",
+        "wiki": "https://en.wikipedia.org/wiki/Adrastus_(son_of_Gordias)",
+        "description": "Phrygian prince who accidentally killed his brother and later Atys, son of Croesus."
+    },
+    "Alexander": {
+        "standardName": "Alexander I of Macedon",
+        "wiki": "https://en.wikipedia.org/wiki/Alexander_I_of_Macedon",
+        "description": "King of Macedon who served as a Persian vassal but secretly aided the Greeks."
+    },
+    "Amasis": {
+        "standardName": "Amasis II",
+        "wiki": "https://en.wikipedia.org/wiki/Amasis_II",
+        "description": "Pharaoh of Egypt, the last great ruler before the Persian conquest."
+    },
+    "Amazons": {
+        "standardName": "The Amazons",
+        "wiki": "https://en.wikipedia.org/wiki/Amazons",
+        "description": "Mythological tribe of warrior women."
+    },
+    "Amestris": {
+        "standardName": "Amestris",
+        "wiki": "https://en.wikipedia.org/wiki/Amestris",
+        "description": "Queen of Persia and wife of Xerxes I, known for her cruelty."
+    },
+    "Amyntas": {
+        "standardName": "Amyntas I of Macedon",
+        "wiki": "https://en.wikipedia.org/wiki/Amyntas_I_of_Macedon",
+        "description": "King of Macedon and father of Alexander I."
+    },
+    "Anaxandrides": {
+        "standardName": "Anaxandridas II",
+        "wiki": "https://en.wikipedia.org/wiki/Anaxandridas_II",
+        "description": "King of Sparta and father of Leonidas I."
+    },
+    "Apis": {
+        "standardName": "Apis",
+        "wiki": "https://en.wikipedia.org/wiki/Apis_(deity)",
+        "description": "Sacred bull worshipped in the Memphis region of Egypt."
+    },
+    "Apollo": {
+        "standardName": "Apollo",
+        "wiki": "https://en.wikipedia.org/wiki/Apollo",
+        "description": "Olympian god of prophecy, music, and healing, speaking through the Oracle."
+    },
+    "Argos": {
+        "standardName": "The Argives",
+        "wiki": "https://en.wikipedia.org/wiki/Argos",
+        "description": "Citizens of Argos, a major city-state in the Peloponnese."
+    },
+    "Aristagoras": {
+        "standardName": "Aristagoras",
+        "wiki": "https://en.wikipedia.org/wiki/Aristagoras",
+        "description": "Tyrant of Miletus who instigated the Ionian Revolt against Persia."
+    },
+    "Aristeides": {
+        "standardName": "Aristides",
+        "wiki": "https://en.wikipedia.org/wiki/Aristides",
+        "description": "Athenian statesman and general, known as 'The Just'."
+    },
+    "Ariston": {
+        "standardName": "Ariston of Sparta",
+        "wiki": "https://en.wikipedia.org/wiki/Ariston_of_Sparta",
+        "description": "King of Sparta and father of Demaratus."
+    },
+    "Artabanos": {
+        "standardName": "Artabanus",
+        "wiki": "https://en.wikipedia.org/wiki/Artabanus_(son_of_Hystaspes)",
+        "description": "Brother of Darius I and uncle of Xerxes, known for his wise counsel."
+    },
+    "Artaphrenes": {
+        "standardName": "Artaphernes",
+        "wiki": "https://en.wikipedia.org/wiki/Artaphernes",
+        "description": "Persian satrap of Sardis and brother of Darius I."
+    },
+    "Artemisia": {
+        "standardName": "Artemisia I of Caria",
+        "wiki": "https://en.wikipedia.org/wiki/Artemisia_I_of_Caria",
+        "description": "Queen of Halicarnassus who commanded ships for Xerxes at Salamis."
+    },
+    "Astyages": {
+        "standardName": "Astyages",
+        "wiki": "https://en.wikipedia.org/wiki/Astyages",
+        "description": "Last king of the Median Empire and grandfather of Cyrus the Great."
+    },
+    "Athenian": {
+        "standardName": "The Athenians",
+        "wiki": "https://en.wikipedia.org/wiki/Classical_Athens",
+        "description": "Citizens of Athens, the cradle of democracy and key player in the Persian Wars."
+    },
+    "Atossa": {
+        "standardName": "Atossa",
+        "wiki": "https://en.wikipedia.org/wiki/Atossa",
+        "description": "Persian queen, daughter of Cyrus, wife of Darius, and mother of Xerxes."
+    },
+    "Cambyses": {
+        "standardName": "Cambyses II",
+        "wiki": "https://en.wikipedia.org/wiki/Cambyses_II",
+        "description": "King of Kings of Persia who conquered Egypt, son of Cyrus."
+    },
+    "Candaules": {
+        "standardName": "Candaules",
+        "wiki": "https://en.wikipedia.org/wiki/Candaules",
+        "description": "King of Lydia who was betrayed by his wife and Gyges."
+    },
+    "Cleomenes": {
+        "standardName": "Cleomenes I",
+        "wiki": "https://en.wikipedia.org/wiki/Cleomenes_I",
+        "description": "Agiad King of Sparta known for his aggressive foreign policy."
+    },
+    "Corinth": {
+        "standardName": "The Corinthians",
+        "wiki": "https://en.wikipedia.org/wiki/Ancient_Corinth",
+        "description": "Citizens of Corinth, a wealthy Greek city-state."
+    },
+    "Croesus": {
+        "standardName": "Croesus",
+        "wiki": "https://en.wikipedia.org/wiki/Croesus",
+        "description": "King of Lydia renowned for his wealth, defeated by Cyrus."
+    },
+    "Cyrus": {
+        "standardName": "Cyrus the Great",
+        "wiki": "https://en.wikipedia.org/wiki/Cyrus_the_Great",
+        "description": "Founder of the Achaemenid Empire and conqueror of Babylon."
+    },
+    "Dareios": {
+        "standardName": "Darius I",
+        "wiki": "https://en.wikipedia.org/wiki/Darius_the_Great",
+        "description": "King of Kings who organized the Persian Empire and launched the first invasion of Greece."
+    },
+    "Delphians": {
+        "standardName": "The Delphians",
+        "wiki": "https://en.wikipedia.org/wiki/Delphi",
+        "description": "Inhabitants of Delphi, guardians of the Oracle."
+    },
+    "Demaratos": {
+        "standardName": "Demaratus",
+        "wiki": "https://en.wikipedia.org/wiki/Demaratus",
+        "description": "Exiled King of Sparta who accompanied Xerxes in his invasion of Greece."
+    },
+    "Dionysios": {
+        "standardName": "Dionysius the Phocaean",
+        "wiki": "https://en.wikipedia.org/wiki/Dionysius_the_Phocaean",
+        "description": "Phocaean commander at the Battle of Lade."
+    },
+    "Egyptians": {
+        "standardName": "The Egyptians",
+        "wiki": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+        "description": "People of the Nile, known for their ancient wisdom and customs."
+    },
+    "Ethiopian": {
+        "standardName": "The King of Ethiopia",
+        "wiki": "https://en.wikipedia.org/wiki/Aethiopia",
+        "description": "Ruler of the long-lived Ethiopians who defied Cambyses."
+    },
+    "Eurybiades": {
+        "standardName": "Eurybiades",
+        "wiki": "https://en.wikipedia.org/wiki/Eurybiades",
+        "description": "Spartan commander of the Greek navy at Salamis."
+    },
+    "Gelon": {
+        "standardName": "Gelo",
+        "wiki": "https://en.wikipedia.org/wiki/Gelo",
+        "description": "Tyrant of Syracuse who defeated the Carthaginians."
+    },
+    "Gobryas": {
+        "standardName": "Gobryas",
+        "wiki": "https://en.wikipedia.org/wiki/Gobryas",
+        "description": "One of the seven conspirators who overthrew the Magian and father-in-law of Darius."
+    },
+    "Gyges": {
+        "standardName": "Gyges of Lydia",
+        "wiki": "https://en.wikipedia.org/wiki/Gyges_of_Lydia",
+        "description": "Bodyguard who seized the Lydian throne after killing Candaules."
+    },
+    "Harpagos": {
+        "standardName": "Harpagus",
+        "wiki": "https://en.wikipedia.org/wiki/Harpagus",
+        "description": "Median general who saved the infant Cyrus and later helped him overthrow Astyages."
+    },
+    "Hegesistratos": {
+        "standardName": "Hegesistratus",
+        "wiki": "https://en.wikipedia.org/wiki/Hegesistratus_(diviner)",
+        "description": "Elean diviner who served Mardonius."
+    },
+    "Heracles": {
+        "standardName": "Heracles",
+        "wiki": "https://en.wikipedia.org/wiki/Heracles",
+        "description": "Divine hero and son of Zeus, ancestor of the Spartan kings."
+    },
+    "Hermotimos": {
+        "standardName": "Hermotimus of Pedasa",
+        "wiki": "https://en.wikipedia.org/wiki/Hermotimus_of_Pedasa",
+        "description": "Eunuch who took brutal revenge on the man who castrated him."
+    },
+    "Hipparchos": {
+        "standardName": "Hipparchus",
+        "wiki": "https://en.wikipedia.org/wiki/Hipparchus_(son_of_Peisistratos)",
+        "description": "Son of Peisistratos and tyrant of Athens, assassinated by the Tyrannicides."
+    },
+    "Hippocleides": {
+        "standardName": "Hippocleides",
+        "wiki": "https://en.wikipedia.org/wiki/Hippocleides",
+        "description": "Athenian noble who 'danced away his marriage'."
+    },
+    "Histiaios": {
+        "standardName": "Histiaeus",
+        "wiki": "https://en.wikipedia.org/wiki/Histiaeus",
+        "description": "Tyrant of Miletus who instigated the Ionian Revolt."
+    },
+    "Homer": {
+        "standardName": "Homer",
+        "wiki": "https://en.wikipedia.org/wiki/Homer",
+        "description": "Legendary poet, author of the Iliad and the Odyssey."
+    },
+    "Leonidas": {
+        "standardName": "Leonidas I",
+        "wiki": "https://en.wikipedia.org/wiki/Leonidas_I",
+        "description": "King of Sparta who died defending the pass at Thermopylae."
+    },
+    "Lycophron": {
+        "standardName": "Lycophron of Corinth",
+        "wiki": "https://en.wikipedia.org/wiki/Lycophron_of_Corinth",
+        "description": "Son of Periander who was estranged from his father."
+    },
+    "Lydians": {
+        "standardName": "The Lydians",
+        "wiki": "https://en.wikipedia.org/wiki/Lydia",
+        "description": "People of Lydia, known for their wealth and invention of coinage."
+    },
+    "Magian": {
+        "standardName": "The Magian (Smerdis)",
+        "wiki": "https://en.wikipedia.org/wiki/Bardiya",
+        "description": "Imposter who seized the Persian throne (also known as Gaumata)."
+    },
+    "Magians": {
+        "standardName": "The Magi",
+        "wiki": "https://en.wikipedia.org/wiki/Magi",
+        "description": "Priestly caste of the Medes and Persians."
+    },
+    "Mardonios": {
+        "standardName": "Mardonius",
+        "wiki": "https://en.wikipedia.org/wiki/Mardonius",
+        "description": "Persian military commander who led the invasion of Greece under Xerxes."
+    },
+    "Masistes": {
+        "standardName": "Masistes",
+        "wiki": "https://en.wikipedia.org/wiki/Masistes",
+        "description": "Brother of Xerxes I, involved in a tragic family intrigue."
+    },
+    "Megabazos": {
+        "standardName": "Megabazus",
+        "wiki": "https://en.wikipedia.org/wiki/Megabazus",
+        "description": "Highly respected Persian general under Darius I."
+    },
+    "Miletos": {
+        "standardName": "The Milesians",
+        "wiki": "https://en.wikipedia.org/wiki/Miletus",
+        "description": "Citizens of Miletus, the leading city of Ionia."
+    },
+    "Miltiades": {
+        "standardName": "Miltiades",
+        "wiki": "https://en.wikipedia.org/wiki/Miltiades",
+        "description": "Athenian general who devised the strategy at the Battle of Marathon."
+    },
+    "Musaios": {
+        "standardName": "Musaeus of Athens",
+        "wiki": "https://en.wikipedia.org/wiki/Musaeus_of_Athens",
+        "description": "Legendary polymath, philosopher, and seer."
+    },
+    "Octamasades": {
+        "standardName": "Octamasadas",
+        "wiki": "https://en.wikipedia.org/wiki/Octamasadas",
+        "description": "Scythian king who executed his brother Scyles."
+    },
+    "Oibares": {
+        "standardName": "Oebares",
+        "wiki": "https://en.wikipedia.org/wiki/Oebares",
+        "description": "Groom of Darius I who helped him win the throne via a horse trick."
+    },
+    "Oracles": {
+        "standardName": "The Oracles",
+        "wiki": "https://en.wikipedia.org/wiki/Greek_divination",
+        "description": "Various prophetic shrines consulted by the Greeks."
+    },
+    "Orestes": {
+        "standardName": "Orestes",
+        "wiki": "https://en.wikipedia.org/wiki/Orestes",
+        "description": "Son of Agamemnon whose bones were sought by the Spartans."
+    },
+    "Oroites": {
+        "standardName": "Oroetes",
+        "wiki": "https://en.wikipedia.org/wiki/Oroetes",
+        "description": "Persian satrap of Sardis who treacherously killed Polycrates."
+    },
+    "Otanes": {
+        "standardName": "Otanes",
+        "wiki": "https://en.wikipedia.org/wiki/Otanes",
+        "description": "Persian noble who initiated the conspiracy against the Magian."
+    },
+    "Pausanias": {
+        "standardName": "Pausanias",
+        "wiki": "https://en.wikipedia.org/wiki/Pausanias_(general)",
+        "description": "Spartan regent and general who commanded the Greeks at Plataea."
+    },
+    "Pelasgians": {
+        "standardName": "The Pelasgians",
+        "wiki": "https://en.wikipedia.org/wiki/Pelasgians",
+        "description": "Pre-Hellenic inhabitants of Greece."
+    },
+    "Persian": {
+        "standardName": "The Persians",
+        "wiki": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+        "description": "People of the Achaemenid Empire."
+    },
+    "Pheidippides": {
+        "standardName": "Pheidippides",
+        "wiki": "https://en.wikipedia.org/wiki/Pheidippides",
+        "description": "Athenian courier sent to Sparta to ask for help before Marathon."
+    },
+    "Phrygia": {
+        "standardName": "Adrastus (Phrygian)",
+        "wiki": "https://en.wikipedia.org/wiki/Adrastus_(son_of_Gordias)",
+        "description": "Phrygian prince who accidentally killed his brother and later Atys, son of Croesus."
+    },
+    "Polycrates": {
+        "standardName": "Polycrates",
+        "wiki": "https://en.wikipedia.org/wiki/Polycrates",
+        "description": "Powerful tyrant of Samos known for his 'Ring of Polycrates'."
+    },
+    "Prexaspes": {
+        "standardName": "Prexaspes",
+        "wiki": "https://en.wikipedia.org/wiki/Prexaspes",
+        "description": "Persian noble who killed Smerdis on Cambyses' orders."
+    },
+    "Proteus": {
+        "standardName": "Proteus (King of Egypt)",
+        "wiki": "https://en.wikipedia.org/wiki/Proteus_(king_of_Egypt)",
+        "description": "Egyptian king who detained Helen of Troy."
+    },
+    "Pythian": {
+        "standardName": "The Pythia",
+        "wiki": "https://en.wikipedia.org/wiki/Pythia",
+        "description": "The High Priestess of the Temple of Apollo at Delphi."
+    },
+    "The Pythia": {
+        "standardName": "The Pythia",
+        "wiki": "https://en.wikipedia.org/wiki/Pythia",
+        "description": "The High Priestess of the Temple of Apollo at Delphi."
+    },
+    "Pythios": {
+        "standardName": "Pythius",
+        "wiki": "https://en.wikipedia.org/wiki/Pythius_of_Lydia",
+        "description": "Lydian of immense wealth who entertained Xerxes."
+    },
+    "Samians": {
+        "standardName": "The Samians",
+        "wiki": "https://en.wikipedia.org/wiki/Samos",
+        "description": "Inhabitants of the island of Samos."
+    },
+    "Scythians": {
+        "standardName": "The Scythians",
+        "wiki": "https://en.wikipedia.org/wiki/Scythians",
+        "description": "Nomadic people of the Pontic-Caspian steppe."
+    },
+    "Smerdis": {
+        "standardName": "Bardiya (Smerdis)",
+        "wiki": "https://en.wikipedia.org/wiki/Bardiya",
+        "description": "Son of Cyrus the Great, allegedly killed by his brother Cambyses."
+    },
+    "Socles": {
+        "standardName": "Socles",
+        "wiki": "https://en.wikipedia.org/wiki/Socles",
+        "description": "Corinthian delegate who spoke against restoring tyranny in Athens."
+    },
+    "Solon": {
+        "standardName": "Solon",
+        "wiki": "https://en.wikipedia.org/wiki/Solon",
+        "description": "Athenian statesman, lawmaker, and poet."
+    },
+    "Spartans": {
+        "standardName": "The Spartans",
+        "wiki": "https://en.wikipedia.org/wiki/Sparta",
+        "description": "Citizens of Sparta, famous for their military prowess."
+    },
+    "Syagros": {
+        "standardName": "Syagrus",
+        "wiki": "https://en.wikipedia.org/wiki/Syagrus_(Spartan)",
+        "description": "Spartan envoy who objected to Gelon's command."
+    },
+    "Syloson": {
+        "standardName": "Syloson",
+        "wiki": "https://en.wikipedia.org/wiki/Syloson",
+        "description": "Brother of Polycrates who was restored to Samos by Darius."
+    },
+    "Tegeans": {
+        "standardName": "The Tegeans",
+        "wiki": "https://en.wikipedia.org/wiki/Tegea",
+        "description": "Citizens of Tegea, often rivals of Sparta."
+    },
+    "Tellos": {
+        "standardName": "Tellus of Athens",
+        "wiki": "https://en.wikipedia.org/wiki/Tellus_of_Athens",
+        "description": "Athenian citizen whom Solon declared the happiest of men."
+    },
+    "Thebans": {
+        "standardName": "The Thebans",
+        "wiki": "https://en.wikipedia.org/wiki/Thebes,_Greece",
+        "description": "Citizens of Thebes, a major Boeotian city."
+    },
+    "Themistocles": {
+        "standardName": "Themistocles",
+        "wiki": "https://en.wikipedia.org/wiki/Themistocles",
+        "description": "Athenian politician and general who built the navy."
+    },
+    "Thespians": {
+        "standardName": "The Thespians",
+        "wiki": "https://en.wikipedia.org/wiki/Thespiae",
+        "description": "Citizens of Thespiae who stayed with Leonidas at Thermopylae."
+    },
+    "Thessalians": {
+        "standardName": "The Thessalians",
+        "wiki": "https://en.wikipedia.org/wiki/Thessaly",
+        "description": "Inhabitants of Thessaly, known for their cavalry."
+    },
+    "Thrasydeios": {
+        "standardName": "Thrasydaeus",
+        "wiki": "https://en.wikipedia.org/wiki/Thrasydaeus",
+        "description": "Tyrant of Akragas and son of Theron."
+    },
+    "Timagenides": {
+        "standardName": "Timagenidas",
+        "wiki": "https://en.wikipedia.org/wiki/Timagenidas",
+        "description": "Theban leader who collaborated with the Persians."
+    },
+    "Xerxes": {
+        "standardName": "Xerxes I",
+        "wiki": "https://en.wikipedia.org/wiki/Xerxes_I",
+        "description": "King of Kings of Persia who led the massive invasion of Greece."
+    },
+    "Zeus": {
+        "standardName": "Zeus",
+        "wiki": "https://en.wikipedia.org/wiki/Zeus",
+        "description": "King of the gods of Mount Olympus."
+    }
+}

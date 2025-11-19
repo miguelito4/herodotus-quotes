@@ -4,8 +4,8 @@ import Footer from './Footer.jsx';
 import ShareQuoteModal from './ShareQuoteModal.jsx';
 
 // Import data directly
-// Import data directly
 import quotesData from '../data/quotes.json';
+import characterMetadata from '../data/character_metadata.json';
 
 const HerodotusExplorer = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -94,8 +94,19 @@ const HerodotusExplorer = () => {
               <div className="flex items-center mb-4">
                 <BookOpen className="h-6 w-6 mr-3 text-accent" />
                 <span className="font-sans text-xl font-semibold text-ink">
-                  {quote.speaker}
+                  {characterMetadata[quote.speaker]?.standardName || quote.speaker}
                 </span>
+                {characterMetadata[quote.speaker]?.wiki && (
+                  <a
+                    href={characterMetadata[quote.speaker].wiki}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="ml-2 p-1 hover:bg-parchment rounded-full transition-colors"
+                    title={`Wikipedia: ${characterMetadata[quote.speaker].standardName || quote.speaker}`}
+                  >
+                    <ExternalLink className="h-4 w-4 text-accent" />
+                  </a>
+                )}
               </div>
             )}
           </div>
@@ -133,7 +144,7 @@ const HerodotusExplorer = () => {
 
           <div className="flex flex-col items-end space-y-2 mt-8 border-t border-stone-300 pt-4">
             <div className="font-sans text-accent uppercase tracking-widest text-sm font-bold">
-              {quote.speaker}
+              {characterMetadata[quote.speaker]?.standardName || quote.speaker}
             </div>
             <div className="flex items-center gap-3">
               {quote.tags && quote.tags.map(tag => (

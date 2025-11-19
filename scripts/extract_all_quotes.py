@@ -197,6 +197,38 @@ def extract_quotes_from_file(file_path):
 
             # Refine speaker using the "Tomyris" logic (Addressee check)
             speaker = resolve_speaker(cleaned_text, context_before, speaker)
+
+            # --- MIDDLEWARE START ---
+
+            # Sub-Task A: The Herald Rule (Messenger Proxy)
+            # Logic: If the text starts with "[Name] sent us..." or "[Name] sent me..." and contains a colon :
+            # Updated regex to allow for titles (e.g. "Croesus king of the Lydians... sent us")
+            herald_match = re.match(r'^([A-Z][a-z]+).*? (?:sent us|sent me|saith).*?:(.*)', cleaned_text)
+            if herald_match:
+                potential_speaker = herald_match.group(1)
+                if potential_speaker not in IGNORE_NAMES and potential_speaker not in BLACKLIST:
+                    speaker = potential_speaker
+                    cleaned_text = herald_match.group(2).strip()
+                    # Re-clean in case of leading quotes or spaces
+                    if cleaned_text.startswith('"'): cleaned_text = cleaned_text[1:]
+                    if cleaned_text.endswith('"'): cleaned_text = cleaned_text[:-1]
+                    cleaned_text = cleaned_text.strip()
+
+            # Sub-Task B: The Oracle Rescue
+            # Logic: If speaker is "Unknown" (or "The Pythia"), check keywords.
+            oracle_keywords = ["Arcadia", "tunnies", "wooden wall", "Salamis", "Delphi", "eating acorns", "coffin", "Lacedemonians"]
+            if speaker == "Unknown" or speaker == "Pythian":
+                if any(keyword in cleaned_text for keyword in oracle_keywords):
+                    speaker = "The Pythia"
+                # Also check for hexameter style (often starts with "But", "Lo", "Surely" in our dataset, or just poetic structure)
+                # The keyword list is the primary filter requested.
+
+            # Sub-Task C: The Purge
+            # Logic: If speaker is still "Unknown", discard.
+            if speaker == "Unknown":
+                continue
+
+            # --- MIDDLEWARE END ---
             
             # Generate ID
             speaker_slug = speaker.lower().replace(' ', '_')
