@@ -196,7 +196,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center justify-center">
               <a
-                href="https://github.com/yourusername/herodotus-explorer"
+                href="https://github.com/miguelito4/herodotus-quotes"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center text-accent hover:text-ink transition-colors"
