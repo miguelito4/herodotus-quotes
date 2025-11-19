@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Croesus",
+    "variations": ["King Croesus"],
+    "bio": "Croesus was the king of Lydia renowned for his wealth."
+  },
+  {
+    "name": "Bias",
+    "variations": ["Bias of Priene"],
+    "bio": "One of the Seven Sages of Greece."
+  },
+  {
+    "name": "Solon",
+    "variations": [],
+    "bio": "Athenian statesman and philosopher; one of the Seven Sages of Greece."
+  },
+  {
+    "name": "Adrastos",
+    "variations": ["Adrastos the Phrygian"],
+    "bio": "Son of Gordias (the King of Phrygia). Adrostos killed his brother, and was driven out of Phrygia."
+  },
+  {
+    "name": "Candaules",
+    "variations": ["Myrsilos"],
+    "bio": "King of Lydia who shows his wife to Gyges."
+  },
+  {
+    "name": "Gyges",
+    "variations": [],
+    "bio": "Conspires with Candaules' wife to slay Candaules, becoming King of Lydia."
+  },
+  {
+    "name": "Sandanis",
+    "variations": [],
+    "bio": "Thought to be a wise man from Lydia."
+  },
+  {
+    "name": "Cyrus",
+    "variations": ["Cyrus the Great", "Cyrus II of Persia"],
+    "bio": "Founder of the Achaemenid Empire."
+  },
+  {
+    "name": "Deïokes",
+    "variations": [],
+    "bio": "First King of Medes."
+  },
+  {
+    "name": "Astyages",
+    "variations": [],
+    "bio": "Last King of Media."
+  },
+  {
+    "name": "Dareios",
+    "variations": ["Darius", "Darius I"],
+    "bio": "Persian King who invaded Greece."
+  },
+  {
+    "name": "Xerxes",
+    "variations": [],
+    "bio": "Son of Darius who led an invasion of Greece and attacks on the Greek navy."
+  },
+  {
+    "name": "Leonidas",
+    "variations": [],
+    "bio": "King of Sparta. Hero of the Battle of Thermopylae."
+  },
+  {
+    "name": "Cleomenes",
+    "variations": [],
+    "bio": "King of Sparta who organized Greek resistance against Persia."
+  },
+  {
+    "name": "Hippias",
+    "variations": [],
+    "bio": "Exiled tyrant of Athens; allied with Persia."
+  },
+  {
+    "name": "Peisistratos",
+    "variations": ["Pisistratus"],
+    "bio": "Son of Hippocrates. Tyrannical ruler of Athens."
+  },
+  {
+    "name": "Polycrates",
+    "variations": [],
+    "bio": "Tyrant of Samos."
+  },
+  {
+    "name": "Thrasybulos",
+    "variations": ["Thrasybulus"],
+    "bio": "Tyrant of Miletus."
+  },
+  {
+    "name": "Histiaios",
+    "variations": ["Histiaeus"],
+    "bio": "Tyrant of Miletus."
+  },
+  {
+    "name": "Aristagoras",
+    "variations": [""],
+    "bio": "Tyrant of Miletus and instigator of the Ionian revolt."
+  },
+  {
+    "name": "Amasis",
+    "variations": ["Amasis II"],
+    "bio": "King (Pharaoh) of Egypt."
+  },
+  {
+    "name": "Psammetichos",
+    "variations": ["Psammetichus", "Psamtik III"],
+    "bio": "Pharaoh of Egypt when Cambyses II invades."
+  },
+  {
+    "name": "Nitocris",
+    "variations": [],
+    "bio": "Queen of Egypt."
+  },
+  {
+    "name": "Tomyris",
+    "variations": ["Thomyris", "Tomris", "Tomiride"],
+    "bio": "Queen of the Massagetae who defeated and killed Cyrus the Great."
+  },
+  {
+    "name": "Amyntas",
+    "variations": [],
+    "bio": "Sixth King of Macedonia."
+  },
+  {
+    "name": "Miltiades",
+    "variations": ["Miltiades the son of Kimon", "Miltiades the Younger"],
+    "bio": "Athenian statesman and general at Marathon."
+  },
+  {
+    "name": "Themistocles",
+    "variations": [""],
+    "bio": "Athenian politician, architect of the Greek naval strategy."
+  },
+  {
+    "name": "Eurybiades",
+    "variations": [""],
+    "bio": "Spartan naval commander at Salamis."
+  },
+  {
+    "name": "Callimachos",
+    "variations": ["Callymachus", "Callimachus"],
+    "bio": "Athenian polemarch at the Battle of Marathon."
+  },
+  {
+    "name": "Leotychides",
+    "variations": ["Leotychidas"],
+    "bio": "Spartan king and commander at Mycale."
+  },
+  {
+    "name": "Megabazos",
+    "variations": ["Megabazus"],
+    "bio": "Persian general who subdued Thrace."
+  },
+  {
+    "name": "Mardonios",
+    "variations": ["Mardonius"],
+    "bio": "Persian general in the invasions of Greece; killed during the Battle of Plataea."
+  },
+  {
+    "name": "Artaphrenes",
+    "variations": ["Artaphernes"],
+    "bio": "Persian satrap of Sardis."
+  },
+  {
+    "name": "Otanes",
+    "variations": [""],
+    "bio": "Persian noble who advocated for democracy and equality before the law."
+  },
+  {
+    "name": "Periander",
+    "variations": [""],
+    "bio": "Tyrant of Corinth and one of the Seven Sages."
+  },
+  {
+    "name": "Arion",
+    "variations": ["Arion of Methymna"],
+    "bio": "Poet saved by a dolphin."
+  },
+  {
+    "name": "Hecataios",
+    "variations": ["Hecataeus"],
+    "bio": "Historian and geographer, contemporary of Herodotus."
+  },
+  {
+    "name": "Anacharsis",
+    "variations": [""],
+    "bio": "Scythian sage and philosopher."
+  },
+  {
+    "name": "Gorgo",
+    "variations": [""],
+    "bio": "Queen of Sparta. Wife of Leonidas and daughter of Cleomenes."
+  },
+  {
+    "name": "Artemisia",
+    "variations": [""],
+    "bio": "Queen of Halicarnassus, naval commander for Xerxes."
+  },
+  {
+    "name": "Amestris",
+    "variations": [""],
+    "bio": "Wife of Xerxes."
+  },
+  {
+    "name": "Pheretime",
+    "variations": ["Pheretima"],
+    "bio": "Queen of Cyrene."
+  },
+  {
+    "name": "Io",
+    "variations": [""],
+    "bio": "Priestess of Hera abducted by the Phoenicians."
+  }, 
+  {
+    "name": "Europa",
+    "variations": ["Pheretima"],
+    "bio": "Princess abducted by Zeus."
+  },
+  {
+    "name": "Helen",
+    "variations": ["Helen of Troy"],
+    "bio": "Central figure in the Trojan War."
+  },
+  {
+    "name": "Demaratos",
+    "variations": ["Demaratus"],
+    "bio": "Exiled Spartan king, advisor to Xerxes."
+  },
+  {
+    "name": "Skyles",
+    "variations": ["Scyles"],
+    "bio": "Scythian king who adopted Greek customs."
+  },
+  {
+    "name": "Charilaos",
+    "variations": ["Charilaus"],
+    "bio": "Early Spartan king."
+  },
+  {
+    "name": "Telines",
+    "variations": [""],
+    "bio": "Priest who unified factions in Gela."
+  },
+  {
+    "name": "Pheidippides",
+    "variations": ["Phidippides", "Philippides"],
+    "bio": "Legendary runner who sought Spartan aid before the Battle of Marathon."
+  },
+  {
+    "name": "Kimon",
+    "variations": ["Cimon"],
+    "bio": "Athenian general and statesman."
+  },
+  {
+    "name": "Artembares",
+    "variations": [""],
+    "bio": "Persian noble who suggested relocating the empire."
+  },
+  {
+    "name": "Phaidyme",
+      "variations": [],
+      "bio": "Daughter of Otanes who helped expose the false Smerdis by checking if he had ears."
+  },
+  {
+    "name": "Gorgo",
+    "variations": [],
+    "bio": "Queen of Sparta, wife of Leonidas and daughter of Cleomenes. Known for her wisdom even as a child when she warned her father about Aristagoras's bribes."
+  },
+  {
+    "name": "Masistes",
+    "variations": [],
+    "bio": "Brother of Xerxes and Persian military commander, caught in a tragic conflict involving his wife and Xerxes's wife Amestris."
+  },
+  {
+    "name": "Coës",
+    "variations": ["Coes"],
+    "bio": "Son of Erxander, advised Darius during his Scythian campaign about keeping the bridge over the Ister intact."
+  },
+  {
+    "name": "Megabates",
+    "variations": [],
+    "bio": "Persian admiral who commanded the fleet in the failed expedition against Naxos."
+  },
+  {
+    "name": "Alexander",
+    "variations": ["Alexander I of Macedon"],
+    "bio": "King of Macedon during the Persian invasion, known as 'The Philhellene'. Son of Amyntas I."
+  },
+  {
+    "name": "Artaÿctes",
+    "variations": ["Artayctes"],
+    "bio": "Persian governor of Sestos who desecrated the shrine of Protesilaus and was later crucified by the Athenians."
+  },
+  {
+    "name": "Tigranes",
+    "variations": [],
+    "bio": "Son of Artabanos, a Persian commander who led forces in the invasion of Greece."
+  }
+]

@@ -1,0 +1,116 @@
+Data Quality Audit Report
+=========================
+
+Edge Case Analysis: Croesus & Cyrus
+-----------------------------------
+Speaker: Cyrus
+Text: "But not even so shall Cyrus at least escape punishment."
+Verification: PASS
+
+Speaker: Croesus
+Text: "O king, that which thou hast said is not without reason; but do not thou altogether give vent to thy wrath, nor destroy an ancient city which is guiltless both of the former things and also of those which have come to pass now: for as to the former things it was I who did them and I bear the consequences heaped upon my head; and as for what is now being done, since the wrongdoer is Pactyas to whom thou didst entrust the charge of Sardis, let him pay the penalty. But the Lydians I pray thee pardon, and lay upon them commands as follows, in order that they may not revolt nor be a cause of danger to thee:send to them and forbid them to possess weapons of war, but bid them on the other hand put on tunics under their outer garments and be shod with buskins, and proclaim to them that they train their sons to play the lyre and the harp and to be retail-dealers; and soon thou shalt see, O king, that they have become women instead of men, so that there will be no fear that they will revolt from thee."
+Verification: PASS
+
+Speaker: Croesus
+Text: "Athenian guest, much report of thee has come to us, both in regard to thy wisdom and thy wanderings, how that in thy search for wisdom thou hast traversed many lands to see them; now therefore a desire has come upon me to ask thee whether thou hast seen any whom thou deemest to be of all men the most happy."
+Verification: PASS
+
+Speaker: Croesus
+Text: "Croesus, tell me who of all men was it who persuaded thee to march upon my land and so to become an enemy to me instead of a friend?"
+Verification: PASS
+
+Speaker: Croesus
+Text: "Adrastos, when thou wast struck with a grievous misfortune , I cleansed thee, and I have received thee into my house supplying all thy costs. Now therefore, since having first received kindness from me thou art bound to requite me with kindness, I ask of thee to be the protector of my son who goes forth to the chase, lest any evil robbers come upon you by the way to do you harm; and besides this thou too oughtest to go where thou mayest become famous by thy deeds, for it belongs to thee as an inheritance from thy fathers so to do, and moreover thou hast strength for it."
+Verification: PASS
+
+Speaker: Cyrus
+Text: "Men of the Persians, thus it is with you. If ye will do as I say, ye have these and ten thousand other good things, with no servile labour; but if ye will not do as I say, ye have labours like that of yesterday innumerable. Now therefore do as I say and make yourselves free: for I seem to myself to have been born by providential fortune to take these matters in hand; and I think that ye are not worse men than the Medes, either in other matters or in those which have to do with war. Consider then that this is so, and make revolt from Astyages forthwith."
+Verification: PASS
+
+Speaker: Croesus
+Text: "As touching my son, make no further mention of him in this matter; for I will not send him with you, seeing that he is newly married and is concerned now with the affairs of his marriage: but I will send with you chosen men of the Lydians and the whole number of my hunting dogs, and I will give command to those who go, to be as zealous as may be in helping you to destroy the wild beast out of your land."
+Verification: PASS
+
+Speaker: Croesus
+Text: "O king, there has appeared in our land a boar of monstrous size, which lays waste our fields; and we, desiring eagerly to take it, are not able: now therefore we ask of thee to send with us thy son and also a chosen band of young men with dogs, that we may destroy it out of our land."
+Verification: PASS
+
+Speaker: Croesus
+Text: "Guest, I have already received from thee all the satisfaction that is due, seeing that thou dost condemn thyself to suffer death; and not thou alone art the cause of this evil, except in so far as thou wert the instrument of it against thine own will, but some one, as I suppose, of the gods, who also long ago signified to me that which was about to be."
+Verification: PASS
+
+Speaker: Croesus
+Text: "But when it cometh to pass that a mule of the Medes shall be monarch Then by the pebbly Hermos, O Lydian delicate-footed, Flee and stay not, and be not ashamed to be callèd a coward."
+Verification: PASS
+
+Speaker: Croesus
+Text: "O king, thou art preparing to march against men who wear breeches of leather, and the rest of their clothing is of leather also; and they eat food not such as they desire but such as they can obtain, dwelling in a land which is rugged; and moreover they make no use of wine but drink water; and no figs have they for dessert, nor any other good thing. On the one hand, if thou shalt overcome them, what wilt thou take away from them, seeing they have nothing? and on the other hand, if thou shalt be overcome, consider how many good things thou wilt lose; for once having tasted our good things, they will cling to them fast and it will not be possible to drive them away. I for my own part feel gratitude to the gods that they do not put it into the minds of the Persians to march against the Lydians."
+Verification: PASS
+
+Speaker: Croesus
+Text: "One whom more than much wealth I should have desired to have speech with all monarchs."
+Verification: PASS
+
+Speaker: Cyrus
+Text: "Hystaspes, thy son has been found plotting against me and against my throne: and how I know this for certain I will declare to thee:The gods have a care of me and show me beforehand all the evils that threaten me. So in the night that is past while sleeping I saw the eldest of thy sons having upon his shoulders wings, and with the one of these he overshadowed Asia and with the other Europe. To judge by this vision then, it cannot be but that he is plotting against me. Do thou therefore go by the quickest way back to Persia and take care that, when I thither after having subdued these regions, thou set thy son before me to be examined."
+Verification: PASS
+
+Speaker: Cyrus
+Text: "Cyrus, insatiable of blood, be not elated with pride by this which has come to pass, namely because with that fruit of the vine, with which ye fill yourselves and become so mad that as the wine descends into your bodies, evil words float up upon its stream,because setting a snare, I say, with such a drug as this thou didst overcome my son, and not by valour in fight. Now therefore receive the word which I utter, giving thee good advice:Restore to me my son and depart from this land without penalty, triumphant over a third part of the army of the Massagetai: but if thou shalt not do so, I swear to thee by the Sun, who is lord of the Massagetai, that surely I will give thee thy fill of blood, insatiable as thou art."
+Verification: PASS
+
+Speaker: Croesus
+Text: "May the gods put it into the minds of the dwellers of the islands to come with horses against the sons of the Lydians!"
+Verification: PASS
+
+Speaker: Croesus
+Text: "O king, I perceive that thou dost earnestly desire to catch the men of the islands on the mainland riding upon horses; and it is not unreasonable that thou shouldest wish for this: what else however thinkest thou the men of the islands desire and have been praying for ever since the time they heard that thou wert about to build ships against them, than that they might catch the Lydians upon the sea, so as to take vengeance upon thee for the Hellenes who dwell upon the mainland, whom thou dost hold enslaved?"
+Verification: PASS
+
+Speaker: Croesus
+Text: "Yes, O king, Tellos the Athenian."
+Verification: PASS
+
+Speaker: Croesus
+Text: "In what respect dost thou judge Tellos to be the most happy?"
+Verification: PASS
+
+Speaker: Croesus
+Text: "O king, I am the son of Gordias, the son of Midas, and I am called Adrastos; and I slew my own brother against my will, and therefore am I here, having been driven forth by my father and deprived of all that I had."
+Verification: PASS
+
+Speaker: Croesus
+Text: "Thou art, as it chances, the offshoot of men who are our friends and thou hast come to friends, among whom thou shalt want of nothing so long as thou shalt remain in our land: and thou wilt find it most for thy profit to bear this misfortune as lightly as may be."
+Verification: PASS
+
+Speaker: Croesus
+Text: "My son, thou dost partly prevail with me by declaring thy judgment about the dream; therefore, having been prevailed upon by thee, I change my resolution and allow thee to go to the chase."
+Verification: PASS
+
+Speaker: Cyrus
+Text: "What is the business that this great multitude of men is doing with so much eagerness?"
+Verification: PASS
+
+Speaker: Croesus
+Text: "Master, thou wilt most do me a pleasure if thou wilt permit me to send to the god of the Hellenes, whom I honoured most of all gods, these fetters, and to ask him whether it is accounted by him right to deceive those who do well to him."
+Verification: PASS
+
+Speaker: Croesus
+Text: "Not this only shalt thou obtain from me, Croesus, but also whatsoever thou mayst desire of me at any time."
+Verification: PASS
+
+Speaker: Cyrus
+Text: "O king, heaven forbid that there should be any man of Persian race who would plot against thee, and if there be any, I pray that he perish as quickly as may be; seeing that thou didst make the Persians to be free instead of slaves, and to rule all nations instead of being ruled by others. And if any vision announces to thee that my son is planning rebellion against thee, I deliver him over to thee to do with him whatsoever thou wilt."
+Verification: PASS
+
+Random Tag Check (3 Samples)
+----------------------------
+Quote: "What is the business that this great multitude of ..."
+Tags: ['history']
+
+Quote: "O king, by thy slave, the son of a herdsman, we ha..."
+Tags: ['hubris']
+
+Quote: "O king, I perceive that thou dost earnestly desire..."
+Tags: ['justice', 'hubris']
+
