@@ -50,7 +50,7 @@ const ShareQuoteModal = ({ isOpen, onClose, quote }) => {
 
     return (
         <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm">
-            <div className="bg-white rounded-xl shadow-2xl max-w-2xl w-full overflow-hidden flex flex-col max-h-[90vh]">
+            <div className="bg-white rounded-xl shadow-2xl max-w-2xl w-full overflow-hidden flex flex-col max-h-[80vh]">
 
                 {/* Header */}
                 <div className="flex items-center justify-between p-4 border-b border-gray-100">
@@ -72,7 +72,7 @@ const ShareQuoteModal = ({ isOpen, onClose, quote }) => {
                     <div className="flex justify-center">
                         <div
                             ref={cardRef}
-                            className="bg-[#fdfbf7] p-8 md:p-12 rounded-none shadow-lg max-w-lg w-full border-8 border-double border-[#e5e0d5] aspect-[4/3] flex flex-col justify-center items-center text-center relative"
+                            className="bg-[#fdfbf7] p-8 md:p-16 rounded-none shadow-lg max-w-lg w-full border-8 border-double border-[#e5e0d5] aspect-[4/3] flex flex-col justify-center items-center text-center relative"
                             style={{ backgroundImage: 'radial-gradient(#e5e0d5 1px, transparent 1px)', backgroundSize: '20px 20px' }}
                         >
                             <div className="absolute top-4 left-4 w-8 h-8 border-t-2 border-l-2 border-accent opacity-50"></div>
@@ -80,7 +80,7 @@ const ShareQuoteModal = ({ isOpen, onClose, quote }) => {
                             <div className="absolute bottom-4 left-4 w-8 h-8 border-b-2 border-l-2 border-accent opacity-50"></div>
                             <div className="absolute bottom-4 right-4 w-8 h-8 border-b-2 border-r-2 border-accent opacity-50"></div>
 
-                            <blockquote className="font-serif text-xl md:text-3xl leading-relaxed md:leading-loose text-ink mb-6 text-justify indent-8 relative z-10">
+                            <blockquote className="font-serif text-base leading-7 md:text-2xl md:leading-9 text-ink mb-6 text-justify indent-8 relative z-10">
                                 {quote.text}
                             </blockquote>
 
