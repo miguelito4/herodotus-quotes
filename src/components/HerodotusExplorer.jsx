@@ -87,7 +87,7 @@ const HerodotusExplorer = () => {
   - ${quote.speaker}, Herodotus Histories Book ${quote.book}`;
 
     return (
-      <div className="bg-white rounded-lg shadow-md p-8 mb-6">
+      <div className="bg-white rounded-lg shadow-md p-6 md:p-10 mb-6">
         <div className="flex justify-between items-start mb-6">
           <div className="flex-grow">
             {showSpeaker && (
@@ -136,14 +136,14 @@ const HerodotusExplorer = () => {
         <div className="relative z-10">
           <div className="mb-8 relative">
             <span className="absolute -top-4 -left-2 text-6xl text-accent opacity-20 font-serif">"</span>
-            <blockquote className="font-serif text-2xl md:text-3xl leading-loose text-ink text-justify indent-8 relative z-10">
+            <blockquote className="font-serif text-lg leading-relaxed md:text-2xl md:leading-loose text-ink text-justify indent-8 relative z-10">
               {quote.text}
             </blockquote>
             <span className="absolute -bottom-8 -right-2 text-6xl text-accent opacity-20 font-serif">"</span>
           </div>
 
           <div className="flex flex-col items-end space-y-2 mt-8 border-t border-stone-300 pt-4">
-            <div className="font-sans text-accent uppercase tracking-widest text-sm font-bold">
+            <div className="font-sans text-accent uppercase tracking-widest text-sm md:text-base font-bold">
               {characterMetadata[quote.speaker]?.standardName || quote.speaker}
             </div>
             <div className="flex items-center gap-3">

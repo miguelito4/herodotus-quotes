@@ -72,7 +72,7 @@ const ShareQuoteModal = ({ isOpen, onClose, quote }) => {
                     <div className="flex justify-center">
                         <div
                             ref={cardRef}
-                            className="bg-[#fdfbf7] p-12 rounded-none shadow-lg max-w-lg w-full border-8 border-double border-[#e5e0d5] aspect-[4/3] flex flex-col justify-center items-center text-center relative"
+                            className="bg-[#fdfbf7] p-8 md:p-12 rounded-none shadow-lg max-w-lg w-full border-8 border-double border-[#e5e0d5] aspect-[4/3] flex flex-col justify-center items-center text-center relative"
                             style={{ backgroundImage: 'radial-gradient(#e5e0d5 1px, transparent 1px)', backgroundSize: '20px 20px' }}
                         >
                             <div className="absolute top-4 left-4 w-8 h-8 border-t-2 border-l-2 border-accent opacity-50"></div>
@@ -80,11 +80,11 @@ const ShareQuoteModal = ({ isOpen, onClose, quote }) => {
                             <div className="absolute bottom-4 left-4 w-8 h-8 border-b-2 border-l-2 border-accent opacity-50"></div>
                             <div className="absolute bottom-4 right-4 w-8 h-8 border-b-2 border-r-2 border-accent opacity-50"></div>
 
-                            <blockquote className="font-serif text-2xl md:text-3xl leading-loose text-ink mb-6 text-justify indent-8 relative z-10">
+                            <blockquote className="font-serif text-xl md:text-3xl leading-relaxed md:leading-loose text-ink mb-6 text-justify indent-8 relative z-10">
                                 {quote.text}
                             </blockquote>
 
-                            <div className="font-sans text-accent uppercase tracking-widest text-sm font-bold">
+                            <div className="font-sans text-accent uppercase tracking-widest text-sm md:text-base font-bold text-stone-500">
                                 {quote.speaker}
                             </div>
                             <div className="font-serif text-gray-500 text-xs mt-2 italic">
