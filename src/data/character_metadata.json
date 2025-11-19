@@ -458,5 +458,10 @@
         "aliases": [
             "The Stone at Thermopylae"
         ]
+    },
+    "Dienekes": {
+        "standardName": "Dienekes",
+        "wiki": "https://en.wikipedia.org/wiki/Dienekes",
+        "description": "A Spartan soldier at Thermopylae, famous for his wit and bravery."
     }
 }
