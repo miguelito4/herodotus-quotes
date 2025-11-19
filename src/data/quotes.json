@@ -1,5 +1,44 @@
 [
   {
+    "id": "booki_solon_manual_01",
+    "text": "Tellos, in the first place, living while his native State was prosperous, had sons fair and good and saw from all of them children begotten and living to grow up; and secondly he had what with us is accounted wealth, and after his life a most glorious end: for when a battle was fought by the Athenians at Eleusis against the neighbouring people, he brought up supports and routed the foe and there died by a most fair death; and the Athenians buried him publicly where he fell, and honoured him greatly.",
+    "speaker": "Solon",
+    "book": "I",
+    "context_before": "Croesus asked him whether he had seen any whom he deemed to be of all men the most happy. This he asked supposing that he himself was the happiest of men; but Solon, using no flattery but the truth only, said: Yes, O king, Tellos the Athenian. And Croesus, marvelling at that which he said, asked him earnestly: In what respect dost thou judge Tellos to be the most happy? And he said:",
+    "context_after": "So when Solon had moved Croesus to inquire further by the story of Tellos, recounting how many points of happiness he had, the king asked again whom he had seen proper to be placed next after this man",
+    "tags": [
+      "wisdom",
+      "fate",
+      "death"
+    ]
+  },
+  {
+    "id": "booki_solon_manual_02",
+    "text": "Cleobis and Biton: for these, who were of Argos by race, possessed a sufficiency of wealth and, in addition to this, strength of body such as I shall tell. Both equally had won prizes in the games, and moreover the following tale is told of them: There was a feast of Hera among the Argives and it was by all means necessary that their mother should be borne in a car to the temple. But since their oxen were not brought up in time from the field, the young men, barred from all else by lack of time, submitted themselves to the yoke and drew the wain, their mother being borne by them upon it; and so they brought it on for five-and-forty furlongs, and came to the temple. Then after they had done this and had been seen by the assembled crowd, there came to their life a most excellent ending; and in this the deity declared that it was better for man to die than to continue to live. For the Argive men were standing round and extolling the strength of the young men, while the Argive women were extolling the mother to whose lot it had fallen to have such sons; and the mother being exceedingly rejoiced both by the deed itself and by the report made of it, took her stand in front of the image of the goddess and prayed that she would give to Cleobis and Biton her sons, who had honoured her greatly, that gift which is best for man to receive: and after this prayer, when they had sacrificed and feasted, the young men lay down to sleep within the temple itself, and never rose again, but were held bound in this last end. And the Argives made statues in the likeness of them and dedicated them as offerings at Delphi, thinking that they had proved themselves most excellent.",
+    "speaker": "Solon",
+    "book": "I",
+    "context_before": "So when Solon had moved Croesus to inquire further by the story of Tellos, recounting how many points of happiness he had, the king asked again whom he had seen proper to be placed next after this man, supposing that he himself would certainly obtain at least the second place; but he replied:",
+    "context_after": "Thus Solon assigned the second place in respect of happiness to these: and Croesus was moved to anger and said: Athenian guest, hast thou then so cast aside our prosperous state as worth nothing",
+    "tags": [
+      "fate",
+      "wisdom",
+      "death"
+    ]
+  },
+  {
+    "id": "booki_solon_manual_03",
+    "text": "Croesus, thou art inquiring about human fortunes of one who well knows that the Deity is altogether envious and apt to disturb our lot. For in the course of long time a man may see many things which he would not desire to see, and suffer also many things which he would not desire to suffer. The limit of life for a man I lay down at seventy years. As for thee, I perceive that thou art both great in wealth and king of many men, but that of which thou didst ask me I cannot call thee yet, until I learn that thou hast brought thy life to a fair ending: for the very rich man is not at all to be accounted more happy than he who has but his subsistence from day to day, unless also the fortune go with him of ending his life well in possession of all things fair. But we must of every thing examine the end and how it will turn out at the last, for to many God shows but a glimpse of happiness and then plucks them up by the roots and overturns them.",
+    "speaker": "Solon",
+    "book": "I",
+    "context_before": "And Croesus was moved to anger and said: Athenian guest, hast thou then so cast aside our prosperous state as worth nothing, that thou dost prefer to us even men of private station? And he said:",
+    "context_after": "Thus saying he refused to gratify Croesus, who sent him away from his presence holding him in no esteem, and thinking him utterly senseless in that he passed over present good things and bade men look to the end of every matter.",
+    "tags": [
+      "wisdom",
+      "fate",
+      "hubris"
+    ]
+  },
+  {
     "id": "booki_candaules_00",
     "text": "Gyges, I think that thou dost not believe me when I tell thee of the beauty of my wife, for it happens that men's ears are less apt of belief than their eyes: contrive therefore means by which thou mayest look upon her naked.",
     "speaker": "Candaules",
